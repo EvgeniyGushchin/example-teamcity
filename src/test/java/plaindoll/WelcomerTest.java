@@ -33,6 +33,6 @@ public class WelcomerTest {
 
 	@Test
 	public void welcomerSaysHunter(){
-		assertThat(welcomer.saySome(), containsString("hunter"));
+		assertThat(welcomer.sayHunter(), containsString("hunter"));
 	}
 }
