@@ -4,7 +4,7 @@
   <description />
   <settings>
     <options>
-      <option name="artifactRules" value="plaindoll/target/plaindoll-%maven.project.version%.jar" />
+      <option name="artifactRules" value="target/plaindoll-%maven.project.version%.jar" />
     </options>
     <parameters />
     <build-runners>
