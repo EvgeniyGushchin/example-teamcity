@@ -3,6 +3,9 @@
   <name>Build</name>
   <description />
   <settings>
+    <options>
+      <option name="artifactRules" value="plaindoll/artifacts" />
+    </options>
     <parameters />
     <build-runners>
       <runner id="Maven2_1" name="Tests" type="Maven2">
